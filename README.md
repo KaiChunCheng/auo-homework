@@ -1,6 +1,6 @@
 # auo-project
 
-Homework Demo App on netlify (https://candid-stardust-1569ae.netlify.app/#/privacy)
+Homework Demo App on netlify (https://candid-stardust-1569ae.netlify.app/#/)
 
 ## Recommended IDE Setup
 
