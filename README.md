@@ -1,6 +1,6 @@
 # auo-project
 
-This template should help get you started developing with Vue 3 in Vite.
+Homework Demo App on netlify (https://candid-stardust-1569ae.netlify.app/#/privacy)
 
 ## Recommended IDE Setup
 
